@@ -1,0 +1,9 @@
+.Footer {
+  composes: coolbox from "../UI/Style.module.css";
+  width: 100%;
+}
+
+.Footer h2 {
+  font-size: 2rem;
+  margin-top: 0;
+}

@@ -1,0 +1,30 @@
+.form {
+  text-align: right;
+}
+
+.form button {
+  font: inherit;
+  cursor: pointer;
+  background-color: rgb(223, 239, 231);
+  color: black;
+  padding: 0.25rem 2rem;
+  font-weight: bold;
+  border: 1px solid white; 
+  border-radius: 2px;
+
+}
+
+.MealItemForm_form__XW4e8 button {
+  font: inherit;
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid gray; 
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+
+}
+
+
+

@@ -1,0 +1,25 @@
+body{
+  margin: 5%;
+}
+
+.description{
+  text-align: justify!important;
+}
+
+.price{
+  font-weight: bold!important
+}
+
+
+@keyframes meals-appear {
+  from {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
